@@ -118,12 +118,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=180&section=footer" />
 
 </div>
-
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AleksiRantanen01/AleksiRantanen01/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleksiRantanen01/AleksiRantanen01/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/AleksiRantanen01/AleksiRantanen01/output-3d-contrib/day.svg" />
-	</picture>
-</p>
