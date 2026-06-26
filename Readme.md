@@ -118,7 +118,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=180&section=footer" />
 
 </div>
-## 📈 Github Stats
+
 
 <p align="center" >
 	<picture>
